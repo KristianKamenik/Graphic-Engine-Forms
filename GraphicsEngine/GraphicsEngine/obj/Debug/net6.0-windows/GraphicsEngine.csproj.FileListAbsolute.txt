@@ -1,0 +1,68 @@
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.exe
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.deps.json
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.runtimeconfig.json
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.pdb
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.Form1.resources
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.GenerateResource.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.AssemblyInfo.cs
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\refint\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.pdb
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.genruntimeconfig.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\ref\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.exe
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.deps.json
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.runtimeconfig.json
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.pdb
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.Form1.resources
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.GenerateResource.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.AssemblyInfo.cs
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\refint\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.pdb
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.genruntimeconfig.cache
+C:\Users\kryst\Desktop\C#Projects\GraphicsEngineKamenik\GraphicsEngine\obj\Debug\net6.0-windows\ref\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.exe
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.deps.json
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.runtimeconfig.json
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.pdb
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.Form1.resources
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.GenerateResource.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.AssemblyInfo.cs
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\refint\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.pdb
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.genruntimeconfig.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine\GraphicsEngine\obj\Debug\net6.0-windows\ref\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.exe
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.deps.json
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.runtimeconfig.json
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\bin\Debug\net6.0-windows\GraphicsEngine.pdb
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.Form1.resources
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.GenerateResource.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.AssemblyInfo.cs
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\refint\GraphicsEngine.dll
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.pdb
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\GraphicsEngine.genruntimeconfig.cache
+C:\Users\kryst\Desktop\C#Projects\Csharp Grpahic Engine project\GraphicsEngine_Backup28.9.23\GraphicsEngine\obj\Debug\net6.0-windows\ref\GraphicsEngine.dll
